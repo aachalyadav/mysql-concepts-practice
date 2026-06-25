@@ -30,4 +30,4 @@ This repository contains practice queries, examples, and notes that helped me un
 To become industry-ready for Data Analyst and Data Science internships by mastering SQL for real-world data analysis.
 
 ---
-Made with consistency and curiosity by Aachal 🌷
+Made with consistency and curiosity by Aachal 
